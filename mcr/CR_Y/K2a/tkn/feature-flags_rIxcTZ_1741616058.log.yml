@@ -19,7 +19,6 @@ exclude_paths:
   - 'plugins/*/tests/**'
   - 'plugins/*/frontend/public/localization/**'
   - 'plugins/*/frontend/public/images/**'
-  - 'plugins/*/node_modules/**'
   - 'plugins/push/api/parts/apn/**'
   - 'plugins/push/frontend/public/javascripts/0.mithril.js'
   - 'test/**' 
