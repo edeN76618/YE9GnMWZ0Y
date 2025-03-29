@@ -11,7 +11,6 @@ const gcs = new Storage({
 //Create client for videoIntelligence API
 const client = new videoIntelligence.VideoIntelligenceServiceClient({
     projectId: 'ID PROJECT',
-    keyFilename: 'JSON WITH KEYS',
 });
 
 //Information of files
