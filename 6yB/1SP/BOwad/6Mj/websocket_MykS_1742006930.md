@@ -26,7 +26,6 @@ We will get back to you as soon as possible and publish a fix if necessary.
 :warning: IMPORTANT :warning: please do not create an issue in this repository, as attackers might take advantage of it. Thank you in advance for your responsible disclosure.
 
 ## History
-
 ### For the `socket.io` package
 
 | Date         | Description                                                                  | CVE number       | Affected versions                   | Patched versions      |
