@@ -49,7 +49,6 @@ From the transitive dependencies:
 | November 2022 | `engine.io`        | [Uncaught exception](https://github.com/advisories/GHSA-r7qp-cfhv-p84w)                                       | `CVE-2022-41940` |
 | May 2023      | `engine.io`        | [Uncaught exception](https://github.com/advisories/GHSA-q9mw-68c2-j6m5)                                       | `CVE-2023-31125` |
 | May 2023      | `socket.io-parser` | [Insufficient validation when decoding a Socket.IO packet](https://github.com/advisories/GHSA-cqmj-92xf-r6r9) | `CVE-2023-32695` |
-| June 2024     | `ws`               | [DoS when handling a request with many HTTP headers](https://github.com/advisories/GHSA-3h5v-q93c-6h6q)       | `CVE-2024-37890` |
 
 ### For the `socket.io-client` package
 
